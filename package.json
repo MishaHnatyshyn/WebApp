@@ -1,0 +1,24 @@
+{
+  "name": "React/.NET simple web app",
+  "version": "1.0.0",
+  "description": "React/.NET simple web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Misha Hnatyshyn",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^3.8.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^2.1.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^3.8.1"
+  }
+}

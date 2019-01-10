@@ -1,0 +1,121 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/mhnatyshyn/WebApp/WebApp.csproj",
+    "projectName": "tutorial-code",
+    "projectPath": "/home/mhnatyshyn/WebApp/WebApp.csproj",
+    "outputPath": "/home/mhnatyshyn/WebApp/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "JavascriptEngineSwitcher.ChakraCore": {
+          "target": "Package",
+          "version": "[2.4.18, )"
+        },
+        "JavascriptEngineSwitcher.ChakraCore.native.linux-x64": {
+          "target": "Package",
+          "version": "[2.4.17, )"
+        },
+        "JavascriptEngineSwitcher.ChakraCore.native.osx-x64": {
+          "target": "Package",
+          "version": "[2.4.17, )"
+        },
+        "JavascriptEngineSwitcher.ChakraCore.native.win-x64": {
+          "target": "Package",
+          "version": "[2.4.17, )"
+        },
+        "JavascriptEngineSwitcher.Extensions.MsDependencyInjection": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "Microsoft.AspNet.Mvc": {
+          "target": "Package",
+          "version": "[5.2.7, )"
+        },
+        "Microsoft.AspNet.WebApi.Core": {
+          "target": "Package",
+          "version": "[5.2.7, )"
+        },
+        "Microsoft.AspNetCore": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.AspNetCore.Mvc": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.AspNetCore.Mvc.Razor": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.AspNetCore.StaticFiles": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.NET.Sdk.Razor": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.Owin": {
+          "target": "Package",
+          "version": "[4.0.0, )"
+        },
+        "Microsoft.VisualStudio.Web.BrowserLink": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.7.2, )"
+        },
+        "Owin": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "React.AspNet": {
+          "target": "Package",
+          "version": "[3.2.0, )"
+        },
+        "System.Web.Http": {
+          "target": "Package",
+          "version": "[4.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

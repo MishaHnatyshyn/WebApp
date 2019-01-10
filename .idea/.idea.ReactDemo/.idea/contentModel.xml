@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$/../.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$/../.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_ReactDemo.-1658944072.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../.nuget/packages/javascriptengineswitcher.chakracore.native.win-x64/2.4.17/runtimes/win-x64/native/ChakraCore.dll" t="Include" />
+    <e p="$PROJECT_DIR$/../WebApp" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="Content" t="Include">
+        <e p="Components" t="Include">
+          <e p="App.jsx" t="Include" />
+          <e p="CarTable.jsx" t="Include" />
+          <e p="Filters.jsx" t="Include" />
+        </e>
+        <e p="index.js" t="Include" />
+        <e p="main.css" t="Include" />
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="HomeController.cs" t="Include" />
+      </e>
+      <e p="DataBase.cs" t="Include" />
+      <e p="Models" t="Include">
+        <e p="CarModel.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="WebApp.csproj" t="IncludeRecursive" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="node_modules" t="ExcludeRecursive">
+        <e p="@material-ui/core" t="IncludeRecursive" />
+        <e p="@types" t="IncludeRecursive">
+          <e p="prop-types" t="IncludeRecursive" />
+          <e p="react" t="IncludeRecursive" />
+        </e>
+        <e p="babel-core" t="IncludeRecursive" />
+        <e p="babel-loader" t="IncludeRecursive" />
+        <e p="babel-preset-env" t="IncludeRecursive" />
+        <e p="babel-preset-react" t="IncludeRecursive" />
+        <e p="css-loader" t="IncludeRecursive" />
+        <e p="csstype" t="IncludeRecursive" />
+        <e p="indefinite-observable" t="IncludeRecursive" />
+        <e p="react" t="IncludeRecursive" />
+        <e p="react-dom" t="IncludeRecursive" />
+        <e p="style-loader" t="IncludeRecursive" />
+        <e p="webpack" t="IncludeRecursive" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="WebApp.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="package-lock.json" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="web.config" t="Include" />
+      <e p="webpack.config.js" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="bundle.js" t="Include" />
+      </e>
+      <e p="x64" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ReactDemo.sln" t="IncludeFlat" />
+      <e p="Solution Items" t="Include" />
+      <e p="global.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

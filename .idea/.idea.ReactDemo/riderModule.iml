@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.nuget/packages/javascriptengineswitcher.chakracore.native.win-x64/2.4.17/runtimes/win-x64/native/ChakraCore.dll" />
+    <content url="file://$USER_HOME$/WebApp" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

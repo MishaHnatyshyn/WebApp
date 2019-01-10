@@ -1,0 +1,13 @@
+/home/mhnatyshyn/WebApp/bin/Debug/netcoreapp2.0/x64/ChakraCore.dll
+/home/mhnatyshyn/WebApp/bin/Debug/netcoreapp2.0/WebApp.dll.config
+/home/mhnatyshyn/WebApp/bin/Debug/netcoreapp2.0/WebApp.deps.json
+/home/mhnatyshyn/WebApp/bin/Debug/netcoreapp2.0/WebApp.runtimeconfig.json
+/home/mhnatyshyn/WebApp/bin/Debug/netcoreapp2.0/WebApp.runtimeconfig.dev.json
+/home/mhnatyshyn/WebApp/bin/Debug/netcoreapp2.0/WebApp.dll
+/home/mhnatyshyn/WebApp/bin/Debug/netcoreapp2.0/WebApp.pdb
+/home/mhnatyshyn/WebApp/obj/Debug/netcoreapp2.0/WebApp.csprojAssemblyReference.cache
+/home/mhnatyshyn/WebApp/obj/Debug/netcoreapp2.0/WebApp.csproj.CoreCompileInputs.cache
+/home/mhnatyshyn/WebApp/obj/Debug/netcoreapp2.0/WebApp.AssemblyInfoInputs.cache
+/home/mhnatyshyn/WebApp/obj/Debug/netcoreapp2.0/WebApp.AssemblyInfo.cs
+/home/mhnatyshyn/WebApp/obj/Debug/netcoreapp2.0/WebApp.dll
+/home/mhnatyshyn/WebApp/obj/Debug/netcoreapp2.0/WebApp.pdb
