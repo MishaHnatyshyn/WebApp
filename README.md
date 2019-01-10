@@ -1,2 +1,8 @@
-Build react - type "npm run build" in console
-Run server - run project
+# Build React
+
+`> npm install`
+
+`> npm run build`
+
+# Run server
+Run project
